@@ -10,18 +10,9 @@ const home			= require('./controller/home');
 const logout		= require('./controller/logout');
 const user			= require('./controller/user');
 const reg			= require('./controller/register');// added the controller to the register 
-const adbuyer		= require('./controller/adBuyerlist');
-const admfree        = require('./controller/adFreelancerlistCon');
-const inbox        = require('./controller/inboxCon');
-const freelancer_inbox        = require('./controller/Freelancer_inboxCon');
-//const job			= require('./controller/joblistCon');
-//freelancer
-const fhome			= require('./controller/free_homeCon');
-const app 			= express();
-// pdf work
-var pdf        = require('html-pdf');
-var fs         = require('fs');
-var options    = {format:'A4'};
+jlkjlkjlkjl
+jkhgkjhkjhkjh
+hjgjhgjgjhgj
 
 //config
 app.set('view engine', 'ejs');
