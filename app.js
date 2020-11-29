@@ -10,9 +10,7 @@ const home			= require('./controller/home');
 const logout		= require('./controller/logout');
 const user			= require('./controller/user');
 const reg			= require('./controller/register');// added the controller to the register 
-jlkjlkjlkjl
-jkhgkjhkjhkjh
-hjgjhgjgjhgj
+
 
 //config
 app.set('view engine', 'ejs');
