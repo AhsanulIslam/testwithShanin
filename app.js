@@ -42,11 +42,7 @@ app.use('/register', reg); // added the path to the register
 app.use('/adBuyerlist', adbuyer);
 app.use('/adFreelancerlist', admfree);
 //app.use('/', job);
-app.use('/inbox',inbox);
-app.use('/freelancer_inbox',freelancer_inbox);
 
-//freelancer
-app.use('/freelancer',fhome);
 
 
 // app.use('/adBuyerlist', adbuyer);
