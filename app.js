@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hellllllllllo//declaration
+=======
+Ahsanul islam//declaration
+>>>>>>> first-branch
 const express 		= require('express');
 const bodyParser 	= require('body-parser');
 const exSession 	= require('express-session');
