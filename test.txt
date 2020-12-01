@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-
-hy there
-=======
-sorry
->>>>>>> third-branch
